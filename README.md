@@ -44,6 +44,10 @@ Diagram: [`diagrams/iaigacb-framework.drawio`](diagrams/iaigacb-framework.drawio
   SALE RULE:  Tier n  →  requires Level ≥ n at point of sale  →  serial issued, bound to the cert
 ```
 
+## Field notes
+
+[`field-notes/`](field-notes/README.md) is the running record: what worked and what didn't, from real deployments, added to over the years. The rule is *share the lesson, never the map*. Contributions welcome.
+
 ## What's decided vs. what's proposed
 
 **Decided by the founder (this draft):** two ladders, the sale rule, serialization, practitioner-only board, voluntary year one, vendors fund the regulator, T4 for restricted domains, incident → law-enforcement notification via the Registry.
