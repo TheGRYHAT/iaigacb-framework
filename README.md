@@ -6,9 +6,13 @@ AI systems are tiered by capability (T1–T4). Operators are licensed by skill (
 
 ## Why this is free
 
-This framework is given away. Anyone may use it, adapt it, teach it, or build on it under the [Creative Commons Attribution 4.0](LICENSE) license, with credit to its source. It was written by a practitioner who has spent 27 years watching tools get deployed by people who didn't understand them, and it is offered as a give-back to the field, not as a product.
+This framework is community-built. We only started it.
 
-If it earns adoption, the plan is to hand it to an independent, board-run non-profit so that no single company, including the one that sponsored its drafting, controls it. Until then, this repository is the canonical text. The site at iaigacb.online is an earlier placeholder preview and will be rebuilt from these documents.
+It is given away under the [Creative Commons Attribution 4.0](LICENSE) license: use it, adapt it, teach it, build on it, with credit to the source. It began as one practitioner's answer to a problem he'd watched for 27 years, tools deployed by people who didn't understand them, and it is offered as a give-back to the field, not as a product. The people who should write the rest of it are the CISOs, engineers, and faculty who have watched AI fail in production.
+
+If it earns adoption, it goes to an independent, board-run non-profit so that no single company, including the one that sponsored the first draft, controls it. Until then this repository is the canonical text. The site at iaigacb.online is an earlier placeholder preview and will be rebuilt from these documents.
+
+**To contribute:** open an issue or a pull request against any document. Every dollar figure, seat count, exam weight, and SLA in these drafts is explicitly proposed, not decided. Argue with it.
 
 ## Read in this order
 
