@@ -26,7 +26,6 @@ If it earns adoption, it goes to an independent, board-run non-profit so that no
 | 05 | [Governance & board](05-governance-and-board.md) | 9 CISOs + 5 faculty + ED, committees, conflicts, chapters |
 | 06 | [Model assessment program](06-model-assessment-program.md) | How the regulators place a system on the Register |
 | 07 | [Roadmap](07-roadmap.md) | Q4 2026 founding → 2027 voluntary year → 2028 fees on |
-| 08 | [Brand & domains](08-brand-and-domains.md) | Name, marks, the two .coms, separation from GRYHAT |
 
 Diagram: [`diagrams/iaigacb-framework.drawio`](diagrams/iaigacb-framework.drawio) · [Framework PNG](diagrams/iaigacb-framework.drawio.png) · [Governance PNG](diagrams/iaigacb-governance.drawio.png) · [PDF](diagrams/iaigacb-framework.pdf)
 
