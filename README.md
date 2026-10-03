@@ -4,6 +4,12 @@
 
 AI systems are tiered by capability (T1–T4). Operators are licensed by skill (L1–L4). A vendor may only sell a Tier-n system to an operator at Level ≥ n. Every deployed AI is serialized to the license that bought it. CISOs and cybersecurity faculty write the standard; the AI companies pay for the regulator.
 
+## Why this is free
+
+This framework is given away. Anyone may use it, adapt it, teach it, or build on it under the [Creative Commons Attribution 4.0](LICENSE) license, with credit to its source. It was written by a practitioner who has spent 27 years watching tools get deployed by people who didn't understand them, and it is offered as a give-back to the field, not as a product.
+
+If it earns adoption, the plan is to hand it to an independent, board-run non-profit so that no single company, including the one that sponsored its drafting, controls it. Until then, this repository is the canonical text. The site at iaigacb.online is an earlier placeholder preview and will be rebuilt from these documents.
+
 ## Read in this order
 
 | # | Doc | One line |
